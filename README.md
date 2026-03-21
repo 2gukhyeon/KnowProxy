@@ -9,5 +9,25 @@ This repository contains the official code for the paper:
 
 We are currently refining and organizing the codebase, and will release the cleaned version soon.
 
+---
+
 ## News
 🎉 KnowProxy has been accepted to ICLR 2026!
+
+
+---
+
+## 📄 Citation
+
+If you find this work useful, please cite:
+
+```bibtex
+@inproceedings{
+lee2026knowproxy,
+title={KnowProxy: Adapting Large Language Models by Knowledge-guided Proxy},
+author={Gukhyeon Lee and Yeachan Kim and SangKeun Lee},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=14f18NoEqO}
+}
+```
