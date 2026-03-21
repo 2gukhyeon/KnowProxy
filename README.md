@@ -19,8 +19,6 @@ We are currently refining and organizing the codebase, and will release the clea
 
 ## 📄 Citation
 
-If you find this work useful, please cite:
-
 ```bibtex
 @inproceedings{
 lee2026knowproxy,
